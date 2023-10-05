@@ -1,0 +1,6 @@
+Step by Step Process
+Open Git Bash in that particular folder. ...
+Type git add . ( ...
+Type git commit -m “Initial commit msg” (all files now in the repository)
+Type git status (you will get a msg, “On branch master nothing to commit, 
+working tree clean” this shows your local repository is finally created)
