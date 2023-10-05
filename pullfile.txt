@@ -1,0 +1,21 @@
+Git PUSH
+The git push command is used to transfer or push the commit, which is made on a local branch in your computer to a remote 
+repository like GitHub. The command used for pushing to GitHub is given below.
+
+git push 'remote_name' 'branch_name'
+
+In this tutorial, you'll be looking two different ways to PUSH to GitHub.
+
+PULL Request
+If you make a change in a repository, GIT PULL can allow others to view the changes. It is used to acknowledge the change 
+that you've made to the repository that you're working on. Or also called a target repository.
+
+The simple command to PULL from a branch is:
+
+git pull 'remote_name' 'branch_name'.
+
+The git pull command is a combination of git fetch which fetches the recent commits in the local repository and git merge,
+which will merge the branch from a remote to a local branch also 'remote_name' is the repository name and 'branch_name' 
+is the name of the specific branch.
+
+You"ll be looking at two different ways on how to use the PULL request.
