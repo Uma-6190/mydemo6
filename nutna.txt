@@ -1,0 +1,7 @@
+You can create a new branch by using the git checkout -b 'branch_name'. In the above code, '-b' flag is used to create 
+a new branch, and 'branch_name' is used to give the branch a specific name, and with checkout, the branch is switched 
+to the newly created branch.
+
+4. Make a change by using vim from bash or direct replacement from the original README file
+You can change the word "containnns" to "contains" in the README file, and the changes with the current status 
+can be viewed by using the following command
